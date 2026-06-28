@@ -1,0 +1,42 @@
+/* all common style css start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6,p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a,a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul,ol {
+    list-style: none;
+}
+/* all common style css end */
+/* header style css start */
+/* header style css end */
+/* header style css start */
+/* header style css end */
+/* header style css start */
+/* header style css end */
+/* header style css start */
+/* header style css end */
+/* header style css start */
+/* header style css end */
